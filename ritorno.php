@@ -19,7 +19,7 @@ include "connection.php";
     <div class="container space">
         <a href="index.php">Home</a>
     </div>
-    <h2>Andata</h2>
+    <h2>Ritorno</h2>
     <div class="container">
     <?php
 
